@@ -1,2 +1,2 @@
 # My.Portfolio
-My own Portfolio made by myself.
+Portfolio made by Giovanna Rebizzi.
